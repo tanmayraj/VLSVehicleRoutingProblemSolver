@@ -1,10 +1,9 @@
-
 # Very Large Scale Vehicle Routing Problem
 
 Solving Very large scale capacitated Vehicle Routing Problems (VLSVRPs) that have between 560-1200 Customers.
 <br>Based on work carried out by [Feiyue, Golden and Wasil](https://www.sciencedirect.com/science/article/pii/S0305054803003150)
 
-![vectorVRP.jpg](attachment:https://github.com/tanmayraj/VLSVehicleRoutingProblemSolver/blob/master/Tags/vectorVRP.jpg)
+![vectorVRP.jpg](https://github.com/tanmayraj/VLSVehicleRoutingProblemSolver/blob/master/Tags/vectorVRP.jpg)
 
 ## Objective
 Generate a sequence of deliveries for each vehicle in a homogeneous fleet based at a <u>single</u> depot so that all customers are serviced and the total distance traveled by the fleet is minimized.
@@ -28,7 +27,7 @@ Our aim is to generate high quality <u>initial feasible solutions</u> (IFS) that
     - Two-Point Move
     - Two-Opt Move
 
-![flowsheet.png](attachment:https://github.com/tanmayraj/VLSVehicleRoutingProblemSolver/blob/master/Tags/flowsheet.png)
+![flowsheet.png](https://github.com/tanmayraj/VLSVehicleRoutingProblemSolver/blob/master/Tags/flowsheet.png)
 
 ## Setup
 <b>Requirements</b>
