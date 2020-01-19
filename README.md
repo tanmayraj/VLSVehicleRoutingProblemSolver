@@ -28,7 +28,7 @@ Our aim is to generate high quality <u>initial feasible solutions</u> (IFS) that
     - Two-Point Move
     - Two-Opt Move
 
-<img src="https://github.com/tanmayraj/VLSVehicleRoutingProblemSolver/blob/master/Tags/flowsheet.jpg">
+<img src="https://github.com/tanmayraj/VLSVehicleRoutingProblemSolver/blob/master/Tags/flowsheet.png">
 
 ## Setup
 <b>Requirements</b>
